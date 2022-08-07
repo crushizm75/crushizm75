@@ -4,7 +4,7 @@
 <div align="center">
 
 [<img src="https://img.shields.io/discord/960866335552847922?label=My%20Discord%20Server"/>](https://discord.gg/MXYW88ZhUn)
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=crushizm75&left_color=green&right_color=red)
 </div>
 
 <div align="center">
@@ -19,5 +19,4 @@
 
 <p align="right">
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=crushizm75&left_color=green&right_color=red)
 </p>
