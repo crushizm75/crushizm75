@@ -19,5 +19,5 @@
 
 <p align="right">
 
-![visitors](https://visitor-badge.glitch.me/badge?crushizm75=crushizm75&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=crushizm75&left_color=green&right_color=red)
 </p>
